@@ -74,3 +74,15 @@ To translate other parts of the site:
 
 1. See the `languages.ko` block in the site's [`config.yaml`](./config.yaml) configuration file and translate those items from the current English.
 1. See [`i18n/ko.yaml`](./i18n/ko.yaml) for a handful of language snippets that need to be translated from the current English. Translate the `other` block of each term.
+
+### India
+
+There is currently scaffolding in place for a Indian translation of the site.
+
+To translate docs into Indian, create Korean Markdown file(s) in the `content/ko/docs` directory.
+
+To translate other parts of the site:
+
+1. See the `languages.ko` block in the site's [`config.yaml`](./config.yaml) configuration file and translate those items from the current English.
+1. See [`i18n/ko.yaml`](./i18n/ko.yaml) for a handful of language snippets that need to be translated from the current English. Translate the `other` block of each term.
+
